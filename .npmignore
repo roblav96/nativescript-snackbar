@@ -3,5 +3,6 @@
 *.log
 *.map
 *.ts
-!index.d.ts
+!*.d.ts
 screens/
+tsconfig.json
